@@ -1,6 +1,7 @@
-package com.xxxx.base.utils;
+package com.xxxx.utils;
 
-import com.xxxx.crm.exceptions.ParamsException;
+
+import com.xxxx.exceptions.ParamsException;
 
 public class AssertUtil {
 

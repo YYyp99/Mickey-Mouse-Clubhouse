@@ -1,4 +1,4 @@
-package com.xxxx.base.utils;
+package com.xxxx.utils;
 
 import javax.servlet.http.HttpServletRequest;
 
